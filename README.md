@@ -30,9 +30,10 @@ This is a command line tic tac toe game implemented in C. The game is played wit
 
 ## Build and Run
 
-- git clone https://github.com/yourusername/tictactoe-terminal.git
-- cd tictactoe-terminal
-- gcc tictactoe.c -o tictactoe ./tictactoe
+- git clone https://github.com/ericmaclean/Tic-Tac.git
+- cd Tic-Tac
+- gcc tictactoe.c -o tictactoe
+- ./tictactoe
 
 ## Images
 
