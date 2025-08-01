@@ -20,8 +20,8 @@ This is a command line tic tac toe game implemented in C. The game is played wit
 
 ## Controls:
 
- -Player is prompted for a row/column number 1-3, a number outside the bounds will be invalid and the player will be prompted again 
- -If the player selects an occupied space the player will be prompted to pick another space 
+ - Player is prompted for a row/column number 1-3, a number outside the bounds will be invalid and the player will be prompted again 
+ - If the player selects an occupied space the player will be prompted to pick another space 
  
 ## Prerequisites
 
