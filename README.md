@@ -36,3 +36,10 @@ cd tictactoe-terminal
 gcc tictactoe.c -o tictactoe
 ./tictactoe
 
+## Images
+
+![alt text][pic1]
+![alt text][pic2]
+
+[pic1]: https://github.com/ericmaclean/Tic-Tac/blob/main/GameTerminalSC.png
+[pic2]: https://github.com/ericmaclean/Tic-Tac/blob/main/GameTerminalSC2.png
