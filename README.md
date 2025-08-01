@@ -2,8 +2,6 @@
 
 This is a command line tic tac toe game implemented in C. The game is played with one player and a computer opponent. The computer makes intelligent moves based on priorities. The player uses the 'X' symbol while the computer uses the 'O' symbol. The order the initial turn is randomized, the user is prompted every turn to enter a row and column to place their symbol. The game ends when either player or the computer has 3 symbols in a row or when the board is filled.   
 
----
-
 ## Features: 
 
 - Take turns playing against intelligent computer 
@@ -20,20 +18,21 @@ This is a command line tic tac toe game implemented in C. The game is played wit
   5. Corner - Play the opposite corner of an opponent or a random corner if opponent does not occupy a corner
   6. Random - Play in a random space if no other priorites are met
 
- ## Controls:
+## Controls:
 
  -Player is prompted for a row/column number 1-3, a number outside the bounds will be invalid and the player will be prompted again 
  -If the player selects an occupied space the player will be prompted to pick another space 
  
-### Prerequisites
+## Prerequisites
 
 - A C compiler (`gcc`, `clang`, etc.)
 - A Unix-like terminal (Linux, macOS, or WSL on Windows)
 
-### Build and Run
+## Build and Run
 
 ```bash
 git clone https://github.com/yourusername/tictactoe-terminal.git
 cd tictactoe-terminal
 gcc tictactoe.c -o tictactoe
 ./tictactoe
+
