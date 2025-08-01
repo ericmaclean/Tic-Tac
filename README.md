@@ -38,6 +38,7 @@ gcc tictactoe.c -o tictactoe
 ## Images
 
 ![alt text][pic1]
+
 ![alt text][pic2]
 
 [pic1]: https://github.com/ericmaclean/Tic-Tac/blob/main/GameTerminalSC.png
