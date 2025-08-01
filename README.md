@@ -30,7 +30,6 @@ This is a command line tic tac toe game implemented in C. The game is played wit
 
 ## Build and Run
 
-```bash
 git clone https://github.com/yourusername/tictactoe-terminal.git
 cd tictactoe-terminal
 gcc tictactoe.c -o tictactoe
